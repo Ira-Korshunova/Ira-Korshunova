@@ -1,72 +1,95 @@
-<h1 align="center">Привет! Я Ирина 👋</h1>
+<h1 align="center">Ирина Коршунова</h1>
 
 <p align="center">
-  <em>Создаю Telegram-боты с интеграцией нейросетей, анализ изображений и RAG-системы</em>
+  <strong>Python Developer | AI/ML Integration | Telegram Bots</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ira-Korshunova?tab=repositories&sort=stargazers">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Ira-Korshunova?style=social">
+  </a>
+  <a href="https://github.com/Ira-Korshunova?tab=repositories&sort=updated">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Ira-Korshunova">
+  </a>
 </p>
 
 ---
 
-## Навыки
+## О себе
+
+Разработчик AI-ботов и систем автоматизации. Специализируюсь на создании Telegram-ботов с интеграцией нейросетей, RAG-систем для работы с документами и автоматизации бизнес-процессов.
+
+**Фокус:** Python, AI/ML интеграции, Telegram Bot API, автоматизация на n8n
+
+---
+
+## Технический стек
+
+| Категория | Технологии |
+|-----------|------------|
+| **Языки** | Python 3.10+, SQL |
+| **Фреймворки** | Flask, asyncio, Jinja2 |
+| **AI/ML** | OpenAI, DeepSeek, Qwen-VL, Gemini, Gigachat |
+| **Базы данных** | PostgreSQL, SQLite, FAISS |
+| **Инструменты** | Docker, Git, Tesseract OCR, n8n |
+| **Деплой** | Linux, Nginx, SSL, systemd, VPS |
+| **API** | Telegram Bot, VK, Google Sheets, WhatsApp |
+
+---
+
+## Образование
+
+| Программа | Институт | Год |
+|-----------|----------|-----|
+| Claude Code | Zerocoder | 2025 |
+| Prompt Engineering | Zerocoder | 2025 |
+
+---
+
+## Избранные проекты
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
-**Языки и фреймворки**
-- Python 3.10+
-- Flask / asyncio / Jinja2
-- HTML / CSS
-- REST API
+### [FoodAnalyzer](https://github.com/Ira-Korshunova/food-analyzer)
+**AI-powered food analysis with nutritional tracking**
 
-</td>
-<td>
+Telegram bot + web app for food photo analysis. Computer vision identifies dishes, calculates calories, proteins, fats, and carbs.
 
-**AI/ML**
-- OpenAI API (GPT)
-- DeepSeek
-- Qwen-VL (DashScope)
-- Gemini / Gigachat
-- FAISS / RAG
-- Prompt Engineering
+**Stack:** Python, Flask, Qwen-VL, DeepSeek, Telegram Bot API
 
 </td>
-<td>
+<td width="50%">
 
-**Инструменты**
-- PostgreSQL / SQLite
-- Docker / VPS / Nginx / SSL
-- Tesseract OCR
-- Git / GitHub
-- n8n (no-code workflows)
+### [Work Bot](https://github.com/Ira-Korshunova/work_bot)
+**Document processing bot for foreign trade**
+
+Bot for working with foreign economic activity documents: OCR scanning, product analysis, voice messages, regulatory database queries via RAG.
+
+**Stack:** Python, Tesseract OCR, FAISS, Yandex SpeechKit
 
 </td>
 </tr>
 <tr>
 <td>
 
-**AI-агенты**
-- Claude Code / MCP
-- Мультиагентные системы
-- CLAUDE.md / Skills
-- AI-солюшены для бизнеса
+### [VK DeepSeek Bot](https://github.com/Ira-Korshunova/vk-deepseek-bot)
+**VK chatbot with DeepSeek integration**
+
+Chatbot in VKontakte based on DeepSeek. Dialog memory, Callback API integration.
+
+**Stack:** Python, VK API, DeepSeek
 
 </td>
 <td>
 
-**Автоматизация**
-- Telegram Bot API
-- VK API / Callback API
-- Google Sheets API
-- WhatsApp / Voice
+### [Porta](https://github.com/Ira-Korshunova/porta-showcase)
+**AI assistant for import/export automation**
 
-</td>
-<td>
+Web platform for automating routine tasks of importers/exporters: document data extraction, product recognition, RAG reference, analytics.
 
-**Деплой**
-- systemd / Supervisor
-- CI/CD
-- SSL (Let's Encrypt)
-- Linux-серверы
+**Stack:** Python, Flask, Qwen-VL, FAISS, Chart.js, PostgreSQL
 
 </td>
 </tr>
@@ -74,77 +97,26 @@
 
 ---
 
-## Обучение
-
-| Курс | Основные темы |
-|------|---------------|
-| **Claude Code** (Zerocoder) | AI-агенты, MCP, мультиагентные системы, навыки и CLAUDE.md, деплой на VPS (Docker, Nginx, SSL), интеграция с n8n |
-| **Prompt Engineering** (Zerocoder) | 30+ инструментов, Python-основы, AI-солюшены для бизнеса, DeepSeek/Gemini/GPT/Claude/Gigachat, GPTs/Voice/Fal AI/WhatsApp |
-
----
-
-## Проекты
-
-### 🍽 [FoodAnalyzer](https://github.com/Ira-Korshunova/food-analyzer)
-**Анализ фото еды с расчётом КБЖУ**
-
-Telegram-бот + веб-приложение для анализа еды по фото. Загружаешь фото → ИИ определяет блюдо → получаешь рецепт, калории, белки, жиры, углеводы.
-
-**Стек:** Python, Flask, Qwen-VL, DeepSeek, Telegram Bot API
-
----
-
-### 📦 [Work Bot](https://github.com/Ira-Korshunova/work_bot)
-**Telegram-бот-ассистент по ВЭД**
-
-Бот для работы с документами внешнеэкономической деятельности: распознавание сканов, анализ товаров, голосовые сообщения, ответы по нормативной базе через RAG.
-
-**Стек:** Python, python-telegram-bot, Tesseract OCR, FAISS, Yandex SpeechKit
-
----
-
-### 📱 [Telegram Bot (n8n)](https://github.com/Ira-Korshunova/telegramm_bot)
-**Telegram-бот на n8n workflow**
-
-Визуальная автоматизация: воркфлоу для обработки команд, мониторинга сайтов, интеграции с Google Sheets. Без кода — только ноды и связи.
-
-**Стек:** n8n, Telegram Bot API, Google Sheets API
-
----
-
-### 💬 [VK DeepSeek Bot](https://github.com/Ira-Korshunova/vk-deepseek-bot)
-**VK-бот с DeepSeek**
-
-Чат-бот во ВКонтакте на базе DeepSeek. Память диалога, интеграция с Callback API.
-
-**Стек:** Python, VK API, DeepSeek
-
----
-
-### 🚢 [Porta](https://github.com/Ira-Korshunova/porta-showcase)
-**AI-ассистент для ВЭД (портфолио)**
-
-Веб-платформа для автоматизации рутинных задач импортёра/экспортёра: извлечение данных из документов, распознавание товаров, RAG-справочник, аналитика.
-
-**Стек:** Python, Flask, Qwen-VL, FAISS, Chart.js, PostgreSQL
-
----
-
-## Статистика
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ira-Korshunova&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ira-Korshunova&layout=compact&theme=dark)
-
----
-
-## Контакты
-
-- **GitHub:** [Ira-Korshunova](https://github.com/Ira-Korshunova)
-- **Email:** irakorshunova@mail.ru
-
----
+## GitHub Activity
 
 <p align="center">
-  <em>Открыт к сотрудничеству и фриланс-проектам</em>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ira-Korshunova&show_icons=true&theme=dark&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ira-Korshunova&layout=compact&theme=dark&hide_border=true&langs_count=6" height="170">
+</p>
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="mailto:irakorshunova@mail.ru">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/Ira-Korshunova">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <em>Open to freelance projects and collaboration</em>
 </p>
