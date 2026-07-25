@@ -17,9 +17,9 @@
 
 ## О себе
 
-Разработчик AI-ботов и систем автоматизации. Специализируюсь на создании Telegram-ботов с интеграцией нейросетей, RAG-систем для работы с документами и автоматизации бизнес-процессов.
+Разработчик AI-ботов и систем автоматизации. Специализируюсь на вайб-кодинге с Claude Code, создании Telegram-ботов с интеграцией нейросетей, RAG-систем для работы с документами и автоматизации бизнес-процессов.
 
-**Фокус:** Python, AI/ML интеграции, Telegram Bot API, автоматизация на n8n
+**Фокус:** Claude Code, вайб-кодинг, мультиагентные системы, Python, AI/ML интеграции, Telegram Bot API
 
 ---
 
@@ -28,21 +28,23 @@
 | Категория | Технологии |
 |-----------|------------|
 | **Языки** | Python 3.10+, SQL |
-| **Фреймворки** | Flask, asyncio, Jinja2 |
+| **Фреймворки** | Flask, asyncio, Jinja2, FastAPI |
 | **AI/ML** | OpenAI, DeepSeek, Qwen-VL, Gemini, Gigachat |
+| **AI-агенты** | Claude Code (CLI), CLAUDE.md, Skills, MCP, Вайб-кодинг |
+| **Мультиагентность** | Claude Agents Team, параллельные и последовательные агенты |
 | **Базы данных** | PostgreSQL, SQLite, FAISS |
-| **Инструменты** | Docker, Git, Tesseract OCR, n8n |
-| **Деплой** | Linux, Nginx, SSL, systemd, VPS |
+| **Инструменты** | Docker, Git, Tesseract OCR, n8n, Ollama (локальные модели) |
+| **Деплой** | Linux, Nginx, SSL, SSH, systemd, VPS |
 | **API** | Telegram Bot, VK, Google Sheets, WhatsApp |
 
 ---
 
 ## Образование
 
-| Программа | Институт | Год |
-|-----------|----------|-----|
-| Claude Code | Zerocoder | 2025 |
-| Prompt Engineering | Zerocoder | 2025 |
+| Программа | Институт | Год | Ключевые навыки |
+|-----------|----------|-----|-----------------|
+| Claude Code | Zerocoder | 2025 | CLI, CLAUDE.md, Skills, MCP, мультиагентные системы, Docker, SSH/SSL, GitHub, локальные модели (Ollama), FastAPI, деплой |
+| Prompt Engineering | Zerocoder | 2025 | 30+ инструментов, DeepSeek/Gemini/GPT/Claude/Gigachat, n8n, GPTs, Voice, Fal AI, WhatsApp |
 
 ---
 
