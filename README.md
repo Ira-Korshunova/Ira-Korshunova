@@ -17,9 +17,9 @@
 
 ## О себе
 
-Разработчик AI-ботов и систем автоматизации. Специализируюсь на вайб-кодинге с Claude Code, создании Telegram-ботов с интеграцией нейросетей, RAG-систем для работы с документами и автоматизации бизнес-процессов.
+Разработчик AI-ботов и систем автоматизации. Специализируюсь на вайб-кодинге с Claude Code, продвинутом промптинге, создании Telegram-ботов с интеграцией нейросетей, RAG-систем для работы с документами и автоматизации бизнес-процессов через no-code (n8n) и API.
 
-**Фокус:** Claude Code, вайб-кодинг, мультиагентные системы, Python, AI/ML интеграции, Telegram Bot API
+**Фокус:** Claude Code, промпт-инжиниринг, LangChain, мультиагентные системы, Python, AI/ML интеграции, Telegram Bot API
 
 ---
 
@@ -29,12 +29,15 @@
 |-----------|------------|
 | **Языки** | Python 3.10+, SQL |
 | **Фреймворки** | Flask, asyncio, Jinja2, FastAPI |
-| **AI/ML** | OpenAI, DeepSeek, Qwen-VL, Gemini, Gigachat |
-| **AI-агенты** | Claude Code (CLI), CLAUDE.md, Skills, MCP, Вайб-кодинг |
-| **Мультиагентность** | Claude Agents Team, параллельные и последовательные агенты |
-| **Базы данных** | PostgreSQL, SQLite, FAISS |
-| **Инструменты** | Docker, Git, Tesseract OCR, n8n, Ollama (локальные модели) |
+| **AI/ML** | OpenAI, DeepSeek, Qwen-VL, Gemini, Gigachat, Yandex GPT |
+| **AI-агенты** | Claude Code (CLI), CLAUDE.md, Skills, MCP, Вайб-кодинг, Cursor AI |
+| **Мультиагентность** | Claude Agents Team, LangChain, LangFlow |
+| **Промптинг** | Продвинутые техники, few-shot, chain-of-thought, JSON-форматы |
+| **Базы данных** | PostgreSQL, SQLite, FAISS, векторные хранилища (RAG) |
+| **No-code** | n8n, EMD Cloud, Albato |
+| **Инструменты** | Docker, Git, Tesseract OCR, Ollama (локальные модели) |
 | **Деплой** | Linux, Nginx, SSL, SSH, systemd, VPS |
+| **Облака** | Yandex Cloud, Google Cloud |
 | **API** | Telegram Bot, VK, Google Sheets, WhatsApp |
 
 ---
@@ -44,7 +47,7 @@
 | Программа | Институт | Год | Ключевые навыки |
 |-----------|----------|-----|-----------------|
 | Claude Code | Zerocoder | 2025 | CLI, CLAUDE.md, Skills, MCP, мультиагентные системы, Docker, SSH/SSL, GitHub, локальные модели (Ollama), FastAPI, деплой |
-| Prompt Engineering | Zerocoder | 2025 | 30+ инструментов, DeepSeek/Gemini/GPT/Claude/Gigachat, n8n, GPTs, Voice, Fal AI, WhatsApp |
+| Prompt Engineering | Zerocoder | 2025 | Продвинутый промптинг, LangChain, LangFlow, fine-tuning LLM, no-code (n8n, EMD Cloud), векторные БД (RAG), мультимодальные модели, Cursor AI, Yandex Cloud, Google Cloud |
 
 ---
 
