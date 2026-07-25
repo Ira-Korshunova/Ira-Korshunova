@@ -14,9 +14,9 @@
 
 **Языки и фреймворки**
 - Python 3.10+
-- Flask
-- asyncio
-- Jinja2
+- Flask / asyncio / Jinja2
+- HTML / CSS
+- REST API
 
 </td>
 <td>
@@ -25,22 +25,61 @@
 - OpenAI API (GPT)
 - DeepSeek
 - Qwen-VL (DashScope)
-- FAISS
-- RAG (Retrieval-Augmented Generation)
+- Gemini / Gigachat
+- FAISS / RAG
+- Prompt Engineering
 
 </td>
 <td>
 
 **Инструменты**
 - PostgreSQL / SQLite
-- Docker
+- Docker / VPS / Nginx / SSL
 - Tesseract OCR
 - Git / GitHub
-- n8n (no-code)
+- n8n (no-code workflows)
+
+</td>
+</tr>
+<tr>
+<td>
+
+**AI-агенты**
+- Claude Code / MCP
+- Мультиагентные системы
+- CLAUDE.md / Skills
+- AI-солюшены для бизнеса
+
+</td>
+<td>
+
+**Автоматизация**
+- Telegram Bot API
+- VK API / Callback API
+- Google Sheets API
+- WhatsApp / Voice
+
+</td>
+<td>
+
+**Деплой**
+- systemd / Supervisor
+- CI/CD
+- SSL (Let's Encrypt)
+- Linux-серверы
 
 </td>
 </tr>
 </table>
+
+---
+
+## Обучение
+
+| Курс | Основные темы |
+|------|---------------|
+| **Claude Code** (Zerocoder) | AI-агенты, MCP, мультиагентные системы, навыки и CLAUDE.md, деплой на VPS (Docker, Nginx, SSL), интеграция с n8n |
+| **Prompt Engineering** (Zerocoder) | 30+ инструментов, Python-основы, AI-солюшены для бизнеса, DeepSeek/Gemini/GPT/Claude/Gigachat, GPTs/Voice/Fal AI/WhatsApp |
 
 ---
 
