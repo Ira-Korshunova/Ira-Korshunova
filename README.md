@@ -68,7 +68,7 @@
 
 Веб-платформа для автоматизации рутины импортёров/экспортёров: извлечение данных из документов (B/L, инвойсы, договоры), распознавание товаров по фото, RAG-справочник по нормативной базе ВЭД, сверка факта поставки с договором, аналитика поставок. Flask-приложение с многостолбцовым AI-layout.
 
-**Stack:** Python, Flask, Qwen-VL, FAISS/BM25, Chart.js, PostgreSQL, Docker, Traefik
+**Stack:** Python, Flask, Jinja2, Vanilla JS, Chart.js, PDF.js, FAISS/BM25+RRF, SQLite/PostgreSQL+pgvector, Qwen-VL, Docker, Traefik
 
 </td>
 </tr>
