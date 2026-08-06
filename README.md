@@ -17,9 +17,15 @@
 
 ## О себе
 
-Разработчик AI-ботов и систем автоматизации. Специализируюсь на вайб-кодинге с Claude Code, продвинутом промптинге, создании Telegram-ботов с интеграцией нейросетей, RAG-систем для работы с документами и автоматизации бизнес-процессов через no-code (n8n) и API.
+Разработчик AI-ботов и систем автоматизации. Специализируюсь на AI-assisted development с Claude Code, продвинутом промптинге, создании Telegram-ботов с интеграцией нейросетей, RAG-систем для работы с документами и автоматизации бизнес-процессов через no-code (n8n) и API.
 
-**Фокус:** Claude Code, промпт-инжиниринг, LangChain, мультиагентные системы, Python, AI/ML интеграции, Telegram Bot API
+**Фокус:**
+- **Claude Code / AI-assisted development** — CLI-агенты, CLAUDE.md, Skills, MCP, мультиагентные системы (Claude Agents Team), деплой (SSH/SSL, Docker, VPS)
+- **Промпт-инжиниринг** — few-shot, chain-of-thought, структурированные форматы (JSON), RAG (базы знаний, FAISS + BM25 + rerank), LangChain/LangFlow
+- **Python-разработка** — Flask, FastAPI, Telegram/VK-боты, интеграции нейросетей (OpenAI, DeepSeek, Qwen-VL, GigaChat, Yandex GPT)
+- **Автоматизация бизнес-процессов** — n8n, API-интеграции, no-code связки, OCR (Tesseract), голосовые интерфейсы (Yandex SpeechKit)
+
+> Обе специализации — выпускница программ Zerocoder: «Промпт-инженер» и «Практический курс по Claude Code» (см. блок «Образование»).
 
 ---
 
@@ -30,7 +36,7 @@
 | **Языки** | Python 3.10+, SQL |
 | **Фреймворки** | Flask, asyncio, Jinja2, FastAPI |
 | **AI/ML** | OpenAI, DeepSeek, Qwen-VL, Gemini, Gigachat, Yandex GPT |
-| **AI-агенты** | Claude Code (CLI), CLAUDE.md, Skills, MCP, Вайб-кодинг, Cursor AI |
+| **AI-агенты** | Claude Code (CLI), CLAUDE.md, Skills, MCP, AI-assisted development, Cursor AI |
 | **Мультиагентность** | Claude Agents Team, LangChain, LangFlow |
 | **Промптинг** | Продвинутые техники, few-shot, chain-of-thought, JSON-форматы |
 | **Базы данных** | PostgreSQL, SQLite, FAISS, векторные хранилища (RAG) |
@@ -55,46 +61,36 @@
 
 <table>
 <tr>
-<td width="50%">
+<td>
 
-### [FoodAnalyzer](https://github.com/Ira-Korshunova/food-analyzer)
-**AI-powered food analysis with nutritional tracking**
+### [Porta](https://github.com/Ira-Korshunova/porta-showcase) · [🟢 live demo](https://porta.cygnusweb.ru)
+**AI assistant for import/export automation — флагманский проект**
 
-Telegram bot + web app for food photo analysis. Computer vision identifies dishes, calculates calories, proteins, fats, and carbs.
+Веб-платформа для автоматизации рутины импортёров/экспортёров: извлечение данных из документов (B/L, инвойсы, договоры), распознавание товаров по фото, RAG-справочник по нормативной базе ВЭД, сверка факта поставки с договором, аналитика поставок. Flask-приложение с многостолбцовым AI-layout.
 
-**Stack:** Python, Flask, Qwen-VL, DeepSeek, Telegram Bot API
+**Stack:** Python, Flask, Qwen-VL, FAISS/BM25, Chart.js, PostgreSQL, Docker, Traefik
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### [Work Bot](https://github.com/Ira-Korshunova/work_bot)
 **Document processing bot for foreign trade**
 
-Bot for working with foreign economic activity documents: OCR scanning, product analysis, voice messages, regulatory database queries via RAG.
+Telegram-бот для работы с документами ВЭД: OCR-сканирование, анализ товаров, голосовые сообщения, запросы к нормативной базе через RAG (FAISS + BM25 + rerank).
 
-**Stack:** Python, Tesseract OCR, FAISS, Yandex SpeechKit
+**Stack:** Python, Tesseract OCR, FAISS, Yandex SpeechKit, Qwen-VL
 
 </td>
-</tr>
-<tr>
-<td>
+<td width="50%">
 
 ### [VK DeepSeek Bot](https://github.com/Ira-Korshunova/vk-deepseek-bot)
 **VK chatbot with DeepSeek integration**
 
-Chatbot in VKontakte based on DeepSeek. Dialog memory, Callback API integration.
+Чат-бот ВКонтакте на базе DeepSeek. Память диалога (20 сообщений), интеграция через Callback API.
 
 **Stack:** Python, VK API, DeepSeek
-
-</td>
-<td>
-
-### [Porta](https://github.com/Ira-Korshunova/porta-showcase)
-**AI assistant for import/export automation**
-
-Web platform for automating routine tasks of importers/exporters: document data extraction, product recognition, RAG reference, analytics.
-
-**Stack:** Python, Flask, Qwen-VL, FAISS, Chart.js, PostgreSQL
 
 </td>
 </tr>
