@@ -88,7 +88,7 @@ Telegram-бот для работы с документами ВЭД: OCR-ска
 ### [VK DeepSeek Bot](https://github.com/Ira-Korshunova/vk-deepseek-bot)
 **VK chatbot with DeepSeek integration**
 
-Чат-бот ВКонтакте на базе DeepSeek. Память диалога (20 сообщений), интеграция через Callback API.
+Чат-бот ВКонтакте на базе DeepSeek. Память диалога (20 сообщений), интеграция через Long Poll API.
 
 **Stack:** Python, VK API, DeepSeek
 
