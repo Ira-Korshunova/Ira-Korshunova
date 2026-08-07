@@ -73,6 +73,18 @@
 </td>
 </tr>
 <tr>
+<td>
+
+### [tg-vk-crosspost](https://github.com/Ira-Korshunova/tg-vk-crosspost)
+**Контент-фабрика кросс-постинга в Telegram и VK**
+
+Система берёт ссылку на статью → генерирует пост (текст + картинка через Qwen/DashScope) → публикует **одновременно** в Telegram и ВКонтакте. Оркестратор на скиллах Claude Code + Python: таблица-очередь `queue.csv` как источник правды, двойной дедуп, ретрай без перегенерации, проверка токенов до постинга. VK — через VK ID OAuth 2.1 с PKCE и 3-шаговую загрузку фото.
+
+**Stack:** Python, Claude Code Skills, Telegram Bot API, VK API (OAuth 2.1 PKCE), Qwen/DashScope
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ### [Work Bot](https://github.com/Ira-Korshunova/work_bot)
