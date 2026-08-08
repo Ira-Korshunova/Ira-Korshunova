@@ -85,6 +85,18 @@
 </td>
 </tr>
 <tr>
+<td>
+
+### [porta-rag-mcp](https://github.com/Ira-Korshunova/porta-rag-mcp)
+**RAG knowledge base как MCP-tools для AI-клиента**
+
+MCP-сервер (FastMCP), выставляющий RAG-базу знаний (поиск по документам) как tools для любого AI-клиента — Claude Desktop, Cursor, ChatGPT. Оптимизация токенов: `search_knowledge_base` — retrieval **без LLM** (дёшево), `ask_knowledge_base` — полный RAG с генерацией. Demo-бэкенд TF-IDF (runnable без ключей) + интерфейс для production-движка FAISS + BM25 + rerank. Гибрид с Notion: оба сервера на одном Claude — «найди в базе и запиши в Notion».
+
+**Stack:** Python, FastMCP (MCP), RAG, TF-IDF/numpy, FAISS (production)
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ### [Work Bot](https://github.com/Ira-Korshunova/work_bot)
