@@ -45,38 +45,22 @@
 
 ## Технический стек
 
-**Языки**
-![Python 3.10+](https://img.shields.io/badge/Python_3.10%2B-1e40af?style=flat&logo=python&logoColor=white) ![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-1e40af?style=flat&logo=javascript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-1e40af?style=flat)
-
-**Backend**
-![Flask](https://img.shields.io/badge/Flask-1e40af?style=flat&logo=flask&logoColor=white) ![FastMCP](https://img.shields.io/badge/FastMCP-1e40af?style=flat) ![asyncio](https://img.shields.io/badge/asyncio-1e40af?style=flat)
-
-**Frontend**
-![Jinja2](https://img.shields.io/badge/Jinja2-1e40af?style=flat&logo=jinja&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-1e40af?style=flat&logo=chartdotjs&logoColor=white) ![PDF.js](https://img.shields.io/badge/PDF.js-1e40af?style=flat)
-
-**AI/LLM**
-![Qwen-VL](https://img.shields.io/badge/Qwen--VL-1e40af?style=flat) ![DashScope](https://img.shields.io/badge/DashScope-1e40af?style=flat) ![DeepSeek](https://img.shields.io/badge/DeepSeek-1e40af?style=flat) ![OpenAI SDK](https://img.shields.io/badge/OpenAI_SDK-1e40af?style=flat&logo=openai&logoColor=white) ![OpenRouter](https://img.shields.io/badge/OpenRouter-1e40af?style=flat) ![Gemini](https://img.shields.io/badge/Gemini-1e40af?style=flat&logo=googlegemini&logoColor=white) ![GigaChat](https://img.shields.io/badge/GigaChat-1e40af?style=flat) ![Yandex GPT](https://img.shields.io/badge/Yandex_GPT-1e40af?style=flat) ![Ollama](https://img.shields.io/badge/Ollama-1e40af?style=flat&logo=ollama&logoColor=white)
-
-**OCR и голос**
-![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-1e40af?style=flat) ![RapidOCR](https://img.shields.io/badge/RapidOCR-1e40af?style=flat) ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-1e40af?style=flat) ![Yandex SpeechKit](https://img.shields.io/badge/Yandex_SpeechKit-1e40af?style=flat)
-
-**RAG и поиск**
-![FAISS](https://img.shields.io/badge/FAISS-1e40af?style=flat) ![BM25](https://img.shields.io/badge/BM25-1e40af?style=flat) ![pgvector](https://img.shields.io/badge/pgvector-1e40af?style=flat) ![text-embedding-v3](https://img.shields.io/badge/text--embedding--v3-1e40af?style=flat)
-
-**Базы данных**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e40af?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-1e40af?style=flat&logo=sqlite&logoColor=white)
-
-**Боты и API**
-![python-telegram-bot](https://img.shields.io/badge/python--telegram--bot-1e40af?style=flat&logo=telegram&logoColor=white) ![VK API](https://img.shields.io/badge/VK_API-1e40af?style=flat&logo=vk&logoColor=white) ![Google Sheets API](https://img.shields.io/badge/Google_Sheets_API-1e40af?style=flat&logo=googlesheets&logoColor=white)
-
-**Автоматизация**
-![n8n](https://img.shields.io/badge/n8n-1e40af?style=flat&logo=n8n&logoColor=white)
-
-**AI-агенты**
-![Claude Code](https://img.shields.io/badge/Claude_Code-1e40af?style=flat&logo=anthropic&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-1e40af?style=flat)
-
-**Инструменты и деплой**
-![Docker](https://img.shields.io/badge/Docker-1e40af?style=flat&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-1e40af?style=flat&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-1e40af?style=flat&logo=linux&logoColor=white)
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <br>
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white">
+  <img alt="Google Gemini" src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+  <br>
+  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white">
+  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</p>
 
 ---
 
