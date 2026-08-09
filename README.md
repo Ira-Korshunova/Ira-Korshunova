@@ -46,40 +46,34 @@
 ## Технический стек
 
 **Языки**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
+![Python 3.10+](https://img.shields.io/badge/Python_3.10%2B-24292e?style=flat&logo=python&logoColor=white) ![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-24292e?style=flat&logo=javascript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-24292e?style=flat)
 
-**Фреймворки**
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![asyncio](https://img.shields.io/badge/asyncio-7A7A7A?style=flat) ![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=flat&logo=jinja&logoColor=white)
+**Backend**
+![Flask](https://img.shields.io/badge/Flask-24292e?style=flat&logo=flask&logoColor=white) ![FastMCP](https://img.shields.io/badge/FastMCP-24292e?style=flat) ![asyncio](https://img.shields.io/badge/asyncio-24292e?style=flat)
 
-**AI/ML**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat) ![Qwen-VL](https://img.shields.io/badge/Qwen--VL-7C3AED?style=flat) ![Gemini](https://img.shields.io/badge/Gemini-886FBF?style=flat&logo=googlegemini&logoColor=white) ![GigaChat](https://img.shields.io/badge/GigaChat-00A650?style=flat) ![Yandex%20GPT](https://img.shields.io/badge/Yandex_GPT-FC3F1D?style=flat)
+**Frontend**
+![Jinja2](https://img.shields.io/badge/Jinja2-24292e?style=flat&logo=jinja&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-24292e?style=flat&logo=chartdotjs&logoColor=white) ![PDF.js](https://img.shields.io/badge/PDF.js-24292e?style=flat)
+
+**AI/LLM**
+![Qwen-VL](https://img.shields.io/badge/Qwen--VL-24292e?style=flat) ![DashScope](https://img.shields.io/badge/DashScope-24292e?style=flat) ![DeepSeek](https://img.shields.io/badge/DeepSeek-24292e?style=flat) ![OpenAI SDK](https://img.shields.io/badge/OpenAI_SDK-24292e?style=flat&logo=openai&logoColor=white) ![OpenRouter](https://img.shields.io/badge/OpenRouter-24292e?style=flat) ![Gemini](https://img.shields.io/badge/Gemini-24292e?style=flat&logo=googlegemini&logoColor=white) ![GigaChat](https://img.shields.io/badge/GigaChat-24292e?style=flat) ![Yandex GPT](https://img.shields.io/badge/Yandex_GPT-24292e?style=flat)
+
+**OCR и голос**
+![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-24292e?style=flat) ![RapidOCR](https://img.shields.io/badge/RapidOCR-24292e?style=flat) ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-24292e?style=flat) ![Yandex SpeechKit](https://img.shields.io/badge/Yandex_SpeechKit-24292e?style=flat)
+
+**RAG и поиск**
+![FAISS](https://img.shields.io/badge/FAISS-24292e?style=flat) ![BM25](https://img.shields.io/badge/BM25-24292e?style=flat) ![pgvector](https://img.shields.io/badge/pgvector-24292e?style=flat) ![text-embedding-v3](https://img.shields.io/badge/text--embedding--v3-24292e?style=flat)
+
+**Базы данных**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292e?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-24292e?style=flat&logo=sqlite&logoColor=white)
+
+**Боты и API**
+![python-telegram-bot](https://img.shields.io/badge/python--telegram--bot-24292e?style=flat&logo=telegram&logoColor=white) ![VK API](https://img.shields.io/badge/VK_API-24292e?style=flat&logo=vk&logoColor=white)
 
 **AI-агенты**
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white) ![CLAUDE.md](https://img.shields.io/badge/CLAUDE.md-B0B0B0?style=flat) ![Skills](https://img.shields.io/badge/Skills-8A2BE2?style=flat) ![MCP](https://img.shields.io/badge/MCP-443EF6?style=flat)
+![Claude Code](https://img.shields.io/badge/Claude_Code-24292e?style=flat&logo=anthropic&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-24292e?style=flat)
 
-**Мультиагентность**
-![Claude Agents Team](https://img.shields.io/badge/Claude_Agents_Team-D97757?style=flat&logo=anthropic&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![LangFlow](https://img.shields.io/badge/LangFlow-24C55E?style=flat)
-
-**Промптинг**
-![few-shot](https://img.shields.io/badge/few--shot-666666?style=flat) ![chain-of-thought](https://img.shields.io/badge/chain--of--thought-666666?style=flat) ![JSON](https://img.shields.io/badge/JSON-333333?style=flat)
-
-**Базы данных и поиск**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-5F4B8B?style=flat) ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat)
-
-**No-code**
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white) ![Albato](https://img.shields.io/badge/Albato-5B5B5B?style=flat)
-
-**Инструменты**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-007ACC?style=flat) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-
-**Деплой**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![SSL](https://img.shields.io/badge/SSL-7A7A7A?style=flat) ![SSH](https://img.shields.io/badge/SSH-7A7A7A?style=flat) ![systemd](https://img.shields.io/badge/systemd-7A7A7A?style=flat) ![VPS](https://img.shields.io/badge/VPS-7A7A7A?style=flat)
-
-**Облака**
-![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-5282FF?style=flat) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-
-**API**
-![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat&logo=telegram&logoColor=white) ![VK](https://img.shields.io/badge/VK-0077FF?style=flat&logo=vk&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)
+**Инструменты и деплой**
+![Docker](https://img.shields.io/badge/Docker-24292e?style=flat&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-24292e?style=flat&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-24292e?style=flat&logo=linux&logoColor=white) ![systemd](https://img.shields.io/badge/systemd-24292e?style=flat)
 
 ---
 
