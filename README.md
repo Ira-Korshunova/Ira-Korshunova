@@ -12,11 +12,9 @@
   <a href="https://t.me/i_Devos">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" height="28">
   </a>
-  <br>
   <a href="https://github.com/Ira-Korshunova?tab=repositories&sort=stargazers">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/Ira-Korshunova?style=flat&logo=github&logoColor=white&label=Stars&color=181717" height="28">
   </a>
-  <br>
   <a href="https://github.com/Ira-Korshunova?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ira-Korshunova?style=flat&logo=github&logoColor=white&label=Followers&color=181717" height="28">
   </a>
@@ -47,20 +45,20 @@
 
 <h2 align="center">Технический стек</h2>
 
-<p align="center" style="display:flex; flex-wrap:wrap; justify-content:space-evenly; gap:8px; max-width:100%;">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
-  <img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white">
-  <img alt="Qwen" src="https://img.shields.io/badge/Qwen-665CEE?style=for-the-badge&logo=qwen&logoColor=white">
-  <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
-  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
-  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white">
-  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
-  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/-3776AB?style=flat&logo=python&logoColor=white">
+  <img alt="Flask" src="https://img.shields.io/badge/-000000?style=flat&logo=flask&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-4169E1?style=flat&logo=postgresql&logoColor=white">
+  <img alt="OpenAI" src="https://img.shields.io/badge/-412991?style=flat&logo=openai&logoColor=white">
+  <img alt="DeepSeek" src="https://img.shields.io/badge/-4D6BFE?style=flat&logo=deepseek&logoColor=white">
+  <img alt="Qwen" src="https://img.shields.io/badge/-665CEE?style=flat&logo=qwen&logoColor=white">
+  <img alt="Claude Code" src="https://img.shields.io/badge/-D97757?style=flat&logo=anthropic&logoColor=white">
+  <img alt="LangChain" src="https://img.shields.io/badge/-1C3C3C?style=flat&logo=langchain&logoColor=white">
+  <img alt="Ollama" src="https://img.shields.io/badge/-000000?style=flat&logo=ollama&logoColor=white">
+  <img alt="n8n" src="https://img.shields.io/badge/-EA4B71?style=flat&logo=n8n&logoColor=white">
+  <img alt="Telegram" src="https://img.shields.io/badge/-26A5E4?style=flat&logo=telegram&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/-2496ED?style=flat&logo=docker&logoColor=white">
 </p>
 
 ---
@@ -164,8 +162,8 @@ Telegram-бот для работы с документами ВЭД: OCR-ска
 <h2 align="center">GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ira-Korshunova&show_icons=true&theme=dark&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ira-Korshunova&layout=compact&theme=dark&hide_border=true&langs_count=6" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ira-Korshunova&show_icons=true&theme=buefy&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ira-Korshunova&layout=compact&theme=buefy&hide_border=true&langs_count=6" height="170">
 </p>
 
 ---
@@ -176,11 +174,9 @@ Telegram-бот для работы с документами ВЭД: OCR-ска
   <a href="mailto:irakorshunova@mail.ru">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="28">
   </a>
-  <br>
   <a href="https://t.me/i_Devos">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" height="28">
   </a>
-  <br>
   <a href="https://github.com/Ira-Korshunova">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="28">
   </a>
