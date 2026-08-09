@@ -8,8 +8,8 @@
   <a href="https://github.com/Ira-Korshunova?tab=repositories&sort=stargazers">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/Ira-Korshunova?style=social">
   </a>
-  <a href="https://github.com/Ira-Korshunova?tab=repositories&sort=updated">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Ira-Korshunova">
+  <a href="https://github.com/Ira-Korshunova?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ira-Korshunova?style=social">
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 - **Python-разработка** — Flask, FastAPI, Telegram/VK-боты, интеграции нейросетей (OpenAI, DeepSeek, Qwen-VL, GigaChat, Yandex GPT)
 - **Автоматизация бизнес-процессов** — n8n, API-интеграции, no-code связки, OCR (Tesseract), голосовые интерфейсы (Yandex SpeechKit)
 
-> Обе специализации — выпускница программ Zerocoder: «Промпт-инженер» и «Практический курс по Claude Code» (см. блок «Образование»).
+> Выпускница Zerocoder по направлению «Промпт-инжиниринг. Продвинутая программа» и курсу «Практический курс по Claude Code» (см. блок «Образование»).
 
 ---
 
@@ -36,15 +36,15 @@
 | **Языки** | Python 3.10+, SQL |
 | **Фреймворки** | Flask, asyncio, Jinja2, FastAPI |
 | **AI/ML** | OpenAI, DeepSeek, Qwen-VL, Gemini, Gigachat, Yandex GPT |
-| **AI-агенты** | Claude Code (CLI), CLAUDE.md, Skills, MCP, AI-assisted development, Cursor AI |
+| **AI-агенты** | Claude Code (CLI), CLAUDE.md, Skills, MCP |
 | **Мультиагентность** | Claude Agents Team, LangChain, LangFlow |
-| **Промптинг** | Продвинутые техники, few-shot, chain-of-thought, JSON-форматы |
+| **Промптинг** | few-shot, chain-of-thought, JSON-форматы |
 | **Базы данных** | PostgreSQL, SQLite, FAISS, векторные хранилища (RAG) |
 | **No-code** | n8n, EMD Cloud, Albato |
 | **Инструменты** | Docker, Git, Tesseract OCR, Ollama (локальные модели) |
 | **Деплой** | Linux, Nginx, SSL, SSH, systemd, VPS |
 | **Облака** | Yandex Cloud, Google Cloud |
-| **API** | Telegram Bot, VK, Google Sheets, WhatsApp |
+| **API** | Telegram Bot API, VK, Google Sheets, WhatsApp |
 
 ---
 
@@ -52,8 +52,8 @@
 
 | Программа | Институт | Год | Ключевые навыки |
 |-----------|----------|-----|-----------------|
-| Claude Code | Zerocoder | 2025 | CLI, CLAUDE.md, Skills, MCP, мультиагентные системы, Docker, SSH/SSL, GitHub, локальные модели (Ollama), FastAPI, деплой |
-| Prompt Engineering | Zerocoder | 2025 | Продвинутый промптинг, LangChain, LangFlow, fine-tuning LLM, no-code (n8n, EMD Cloud), векторные БД (RAG), мультимодальные модели, Cursor AI, Yandex Cloud, Google Cloud |
+| [Практический курс по Claude Code](https://zerocoder.ru/course-claude-code) | Zerocoder | 2025 | CLI, CLAUDE.md, Skills, MCP, мультиагентные системы, Docker, SSH/SSL, GitHub, локальные модели (Ollama), FastAPI, деплой |
+| [Промпт-инжиниринг. Продвинутая программа](https://zerocoder.ru/prompt-engineer-with-ai-course) | Zerocoder | 2025 | Продвинутый промптинг, LangChain, LangFlow, fine-tuning LLM, no-code (n8n, EMD Cloud), векторные БД (RAG), мультимодальные модели, Cursor AI, Yandex Cloud, Google Cloud |
 
 ---
 
