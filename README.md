@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🏠 Москва, Россия
+  🌍 Москва, Россия
 </p>
 
 <p align="center">
