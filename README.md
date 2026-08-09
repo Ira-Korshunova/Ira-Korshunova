@@ -10,13 +10,13 @@
 
 <p align="center">
   <a href="https://t.me/i_Devos">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-1e40af?style=flat&logo=telegram&logoColor=white&labelColor=1e40af">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-1e40af?style=flat&logo=telegram&logoColor=white&labelColor=1e40af" height="26">
   </a>
   <a href="https://github.com/Ira-Korshunova?tab=repositories&sort=stargazers">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Ira-Korshunova?style=social">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Ira-Korshunova?style=social" height="26">
   </a>
   <a href="https://github.com/Ira-Korshunova?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ira-Korshunova?style=social">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ira-Korshunova?style=social" height="26">
   </a>
 </p>
 
@@ -173,13 +173,13 @@ Telegram-бот для работы с документами ВЭД: OCR-ска
 
 <p align="center">
   <a href="mailto:irakorshunova@mail.ru">
-    <img src="https://img.shields.io/badge/Email-1e40af?style=flat&logo=gmail&logoColor=white&labelColor=1e40af">
+    <img src="https://img.shields.io/badge/Email-1e40af?style=flat&logo=gmail&logoColor=white&labelColor=1e40af" height="26">
   </a>
   <a href="https://t.me/i_Devos">
-    <img src="https://img.shields.io/badge/Telegram-1e40af?style=flat&logo=telegram&logoColor=white&labelColor=1e40af">
+    <img src="https://img.shields.io/badge/Telegram-1e40af?style=flat&logo=telegram&logoColor=white&labelColor=1e40af" height="26">
   </a>
   <a href="https://github.com/Ira-Korshunova">
-    <img src="https://img.shields.io/badge/GitHub-1e40af?style=flat&logo=github&logoColor=white&labelColor=1e40af">
+    <img src="https://img.shields.io/badge/GitHub-1e40af?style=flat&logo=github&logoColor=white&labelColor=1e40af" height="26">
   </a>
 </p>
 
