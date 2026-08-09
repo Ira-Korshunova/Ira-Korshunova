@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://t.me/i_Devos">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@i_Devos-26A5E4?style=flat&logo=telegram&logoColor=white">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@i_Devos-2ea44f?style=flat&logo=telegram&logoColor=white">
   </a>
   <a href="https://github.com/Ira-Korshunova?tab=repositories&sort=stargazers">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/Ira-Korshunova?style=social">
