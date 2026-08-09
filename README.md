@@ -10,13 +10,13 @@
 
 <p align="center">
   <a href="https://t.me/i_Devos">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@i_Devos-1e40af?style=flat&logo=telegram&logoColor=white&labelColor=1e40af">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@i_Devos-1e40af?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1e40af">
   </a>
   <a href="https://github.com/Ira-Korshunova?tab=repositories&sort=stargazers">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Ira-Korshunova?style=social">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Ira-Korshunova?style=for-the-badge&logo=github&logoColor=white&labelColor=1e40af&color=1e40af">
   </a>
   <a href="https://github.com/Ira-Korshunova?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ira-Korshunova?style=social">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ira-Korshunova?style=for-the-badge&logo=github&logoColor=white&labelColor=1e40af&color=1e40af">
   </a>
 </p>
 
