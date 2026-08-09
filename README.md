@@ -80,7 +80,7 @@
 <tr>
 <td>
 
-### [Porta](https://github.com/Ira-Korshunova/porta-showcase) · [🟢 live demo](https://porta.cygnusweb.ru)
+### [Porta](https://github.com/Ira-Korshunova/porta-showcase) · [![Live demo](https://img.shields.io/badge/live_demo-porta.cygnusweb.ru-2ea44f?style=flat&logo=vercel&logoColor=white)](https://porta.cygnusweb.ru)
 **AI assistant for import/export automation — флагманский проект**
 
 Веб-платформа для автоматизации рутины импортёров/экспортёров: извлечение данных из документов (B/L, инвойсы, договоры), распознавание товаров по фото, RAG-справочник по нормативной базе ВЭД, сверка факта поставки с договором, аналитика поставок. Flask-приложение с многостолбцовым AI-layout.
@@ -120,7 +120,7 @@ MCP-сервер (FastMCP), выставляющий RAG-базу знаний (
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td>
 
 ### [Work Bot](https://github.com/Ira-Korshunova/work_bot)
 **Document processing bot for foreign trade**
@@ -132,7 +132,9 @@ Telegram-бот для работы с документами ВЭД: OCR-ска
 **Stack:** Python, Tesseract OCR, FAISS, Yandex SpeechKit, Qwen-VL
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td>
 
 ### [VK DeepSeek Bot](https://github.com/Ira-Korshunova/vk-deepseek-bot)
 **VK chatbot with DeepSeek integration**
