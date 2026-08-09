@@ -145,7 +145,7 @@ Telegram-бот для работы с документами ВЭД: OCR-ска
 
 | Программа | Институт | Год | Ключевые навыки |
 |-----------|----------|-----|-----------------|
-| [Практический курс по Claude Code](https://zerocoder.ru/course-claude-code) · [диплом (RU)](https://fs-thb01.getcourse.ru/fileservice/file/thumbnail/h/afda87ee3a7871525fdf6d3c97b2bc1f.png/s/800x/a/256825/sc/396) · [диплом (EN)](https://fs-thb01.getcourse.ru/fileservice/file/thumbnail/h/bbcc76b07614db1a508190bc882a7606.png/s/800x/a/256825/sc/133) | Zerocoder | 2026 | CLI, CLAUDE.md, Skills, MCP, мультиагентные системы, Docker, SSH/SSL, GitHub, локальные модели (Ollama), FastAPI, деплой |
+| [Практический курс по Claude Code](https://zerocoder.ru/course-claude-code) · [диплом (RU)](./certificates/zerocoder-claude-code-ru.png) · [диплом (EN)](./certificates/zerocoder-claude-code-en.png) | Zerocoder | 2026 | CLI, CLAUDE.md, Skills, MCP, мультиагентные системы, Docker, SSH/SSL, GitHub, локальные модели (Ollama), FastAPI, деплой |
 | [Промпт-инжиниринг. Продвинутая программа](https://zerocoder.ru/prompt-engineer-with-ai-course) | Zerocoder | 2026 | Продвинутый промптинг, LangChain, LangFlow, fine-tuning LLM, no-code (n8n), векторные БД (RAG), мультимодальные модели, Cursor AI, Yandex Cloud, Google Cloud |
 
 ---
