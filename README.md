@@ -45,20 +45,21 @@
 
 ## Технический стек
 
-| Категория | Технологии |
-|-----------|------------|
-| **Языки** | Python 3.10+, SQL |
-| **Фреймворки** | Flask, asyncio, Jinja2, FastAPI |
-| **AI/ML** | OpenAI, DeepSeek, Qwen-VL, Gemini, Gigachat, Yandex GPT |
-| **AI-агенты** | Claude Code (CLI), CLAUDE.md, Skills, MCP |
-| **Мультиагентность** | Claude Agents Team, LangChain, LangFlow |
-| **Промптинг** | few-shot, chain-of-thought, JSON-форматы |
-| **Базы данных** | PostgreSQL, SQLite, FAISS, векторные хранилища (RAG) |
-| **No-code** | n8n, Albato |
-| **Инструменты** | Docker, Git, Tesseract OCR, Ollama (локальные модели) |
-| **Деплой** | Linux, Nginx, SSL, SSH, systemd, VPS |
-| **Облака** | Yandex Cloud, Google Cloud |
-| **API** | Telegram Bot API, VK, Google Sheets, WhatsApp |
+<table width="100%">
+<tr><th align="left">Категория</th><th align="left">Технологии</th></tr>
+<tr><td><strong>Языки</strong></td><td>Python 3.10+, SQL</td></tr>
+<tr><td><strong>Фреймворки</strong></td><td>Flask, asyncio, Jinja2, FastAPI</td></tr>
+<tr><td><strong>AI/ML</strong></td><td>OpenAI, DeepSeek, Qwen-VL, Gemini, Gigachat, Yandex GPT</td></tr>
+<tr><td><strong>AI-агенты</strong></td><td>Claude Code (CLI), CLAUDE.md, Skills, MCP</td></tr>
+<tr><td><strong>Мультиагентность</strong></td><td>Claude Agents Team, LangChain, LangFlow</td></tr>
+<tr><td><strong>Промптинг</strong></td><td>few-shot, chain-of-thought, JSON-форматы</td></tr>
+<tr><td><strong>Базы данных</strong></td><td>PostgreSQL, SQLite, FAISS, векторные хранилища (RAG)</td></tr>
+<tr><td><strong>No-code</strong></td><td>n8n, Albato</td></tr>
+<tr><td><strong>Инструменты</strong></td><td>Docker, Git, Tesseract OCR, Ollama (локальные модели)</td></tr>
+<tr><td><strong>Деплой</strong></td><td>Linux, Nginx, SSL, SSH, systemd, VPS</td></tr>
+<tr><td><strong>Облака</strong></td><td>Yandex Cloud, Google Cloud</td></tr>
+<tr><td><strong>API</strong></td><td>Telegram Bot API, VK, Google Sheets, WhatsApp</td></tr>
+</table>
 
 ---
 
