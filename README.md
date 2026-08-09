@@ -58,7 +58,7 @@
 **Результат:** ручная обработка поставки сокращается с часов до минут. Разбор документов идёт программным OCR + regex-парсером без обращения к платным LLM-API — стоимость обработки рутинных документов близка к нулю.
 
 <p align="center">
-  <img alt="Porta — главная страница" src="https://raw.githubusercontent.com/Ira-Korshunova/porta-showcase/main/docs/screenshots/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%82%D0%B5%D0%BF%D0%BB%D0%B0%D1%8F.png" width="720">
+  <img alt="Porta — главная страница" src="https://raw.githubusercontent.com/Ira-Korshunova/porta-showcase/main/docs/screenshots/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%B0%D1%8F.png" width="720">
 </p>
 
 **Stack:** Python, Flask, Jinja2, Vanilla JS, Chart.js, PDF.js, FAISS/BM25+RRF, SQLite/PostgreSQL+pgvector, Qwen-VL, Docker, Traefik
@@ -77,7 +77,7 @@
 
 <p align="center">
   <img alt="Пост, опубликованный во ВКонтакте" src="https://raw.githubusercontent.com/Ira-Korshunova/tg-vk-crosspost/main/screenshots/08.png" width="330">
-  <img alt="Тот же пост в Telegram" src="https://raw.githubusercontent.com/Ira-Korshunova/tg-vk-crosspost/main/screenshots/11.png" width="330">
+  <img alt="Тот же пост в Telegram" src="https://raw.githubusercontent.com/Ira-Korshunova/tg-vk-crosspost/main/screenshots/11_cropped.png" width="330">
 </p>
 
 **Stack:** Python, Claude Code Skills, Telegram Bot API, VK API (OAuth 2.1 PKCE), Qwen/DashScope
