@@ -150,15 +150,6 @@ Telegram-бот для работы с документами ВЭД: OCR-ска
 
 ---
 
-<h3 align="center">GitHub Activity</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ira-Korshunova&show_icons=true&theme=buefy&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ira-Korshunova&layout=compact&theme=buefy&hide_border=true&langs_count=6" height="170">
-</p>
-
----
-
 <h3 align="center">Контакты</h3>
 
 <p align="center">
