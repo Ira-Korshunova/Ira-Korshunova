@@ -1,4 +1,4 @@
-<h1 align="center">Ирина Коршунова</h1>
+<h2 align="center">Ирина Коршунова</h2>
 
 <p align="center">
   <strong>Промпт-инженер | AI/ML Integration | Telegram Bots</strong>
@@ -88,7 +88,7 @@
 <tr>
 <td>
 
-### [Porta · Vision & Knowledge](https://github.com/Ira-Korshunova/porta-showcase)
+<h3 align="center"><a href="https://github.com/Ira-Korshunova/porta-showcase">Porta · Vision &amp; Knowledge</a></h3>
 
 [![Live demo](https://img.shields.io/badge/%F0%9F%8C%90_Demo-1e40af?style=flat&labelColor=1e40af)](https://porta.cygnusweb.ru)
 
@@ -105,7 +105,7 @@
 <tr>
 <td>
 
-### [tg-vk-crosspost](https://github.com/Ira-Korshunova/tg-vk-crosspost)
+<h3 align="center"><a href="https://github.com/Ira-Korshunova/tg-vk-crosspost">tg-vk-crosspost</a></h3>
 **Контент-фабрика кросс-постинга в Telegram и VK**
 
 Система берёт ссылку на статью → генерирует пост (текст + картинка через Qwen/DashScope) → публикует **одновременно** в Telegram и ВКонтакте. Оркестратор на скиллах Claude Code + Python: таблица-очередь `queue.csv` как источник правды, двойной дедуп, ретрай без перегенерации, проверка токенов до постинга. VK — через VK ID OAuth 2.1 с PKCE и 3-шаговую загрузку фото.
@@ -119,7 +119,7 @@
 <tr>
 <td>
 
-### [porta-rag-mcp](https://github.com/Ira-Korshunova/porta-rag-mcp)
+<h3 align="center"><a href="https://github.com/Ira-Korshunova/porta-rag-mcp">porta-rag-mcp</a></h3>
 **RAG-база знаний как MCP-tools для AI-клиента**
 
 MCP-сервер (FastMCP), выставляющий RAG-базу знаний (поиск по документам) как tools для любого AI-клиента — Claude Desktop, Cursor, ChatGPT. Оптимизация токенов: `search_knowledge_base` — retrieval **без LLM** (дёшево), `ask_knowledge_base` — полный RAG с генерацией. Demo-бэкенд TF-IDF (runnable без ключей) + интерфейс для production-движка FAISS + BM25 + rerank. Гибрид с Notion: оба сервера на одном Claude — «найди в базе и запиши в Notion».
@@ -133,7 +133,7 @@ MCP-сервер (FastMCP), выставляющий RAG-базу знаний (
 <tr>
 <td>
 
-### [Work Bot](https://github.com/Ira-Korshunova/work_bot)
+<h3 align="center"><a href="https://github.com/Ira-Korshunova/work_bot">Work Bot</a></h3>
 **Бот для обработки документов ВЭД**
 
 Telegram-бот для работы с документами ВЭД: OCR-сканирование, анализ товаров, голосовые сообщения, запросы к нормативной базе через RAG (FAISS + BM25 + rerank).
@@ -147,7 +147,7 @@ Telegram-бот для работы с документами ВЭД: OCR-ска
 <tr>
 <td>
 
-### [VK DeepSeek Bot](https://github.com/Ira-Korshunova/vk-deepseek-bot)
+<h3 align="center"><a href="https://github.com/Ira-Korshunova/vk-deepseek-bot">VK DeepSeek Bot</a></h3>
 **VK-чат-бот с интеграцией DeepSeek**
 
 Чат-бот ВКонтакте на базе DeepSeek. Память диалога (20 сообщений), интеграция через Long Poll API.
