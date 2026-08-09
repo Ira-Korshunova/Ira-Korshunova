@@ -24,7 +24,7 @@
 
 ---
 
-## О себе
+<h2 align="center">О себе</h2>
 
 **Промпт-инженер и разработчик AI-решений.** Проектирую и внедряю ИИ-ассистентов для бизнеса: от промпта до продакшена. Превращаю языковые модели в надёжные рабочие инструменты — боты, RAG-системы, автоматизации процессов.
 
@@ -45,7 +45,7 @@
 
 ---
 
-## Технический стек
+<h2 align="center">Технический стек</h2>
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -70,7 +70,7 @@
 
 ---
 
-## Образование
+<h2 align="center">Образование</h2>
 
 | Программа | Институт | Год | Ключевые навыки |
 |-----------|----------|-----|-----------------|
@@ -82,7 +82,7 @@
 
 ---
 
-## Избранные проекты
+<h2 align="center">Избранные проекты</h2>
 
 <table>
 <tr>
@@ -162,7 +162,7 @@ Telegram-бот для работы с документами ВЭД: OCR-ска
 
 ---
 
-## GitHub Activity
+<h2 align="center">GitHub Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ira-Korshunova&show_icons=true&theme=dark&hide_border=true" height="170">
@@ -171,7 +171,7 @@ Telegram-бот для работы с документами ВЭД: OCR-ска
 
 ---
 
-## Контакты
+<h2 align="center">Контакты</h2>
 
 <p align="center">
   <a href="mailto:irakorshunova@mail.ru">
