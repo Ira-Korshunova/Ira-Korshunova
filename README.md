@@ -90,7 +90,9 @@
 
 <h3 align="center"><a href="https://github.com/Ira-Korshunova/porta-showcase">Porta · Vision &amp; Knowledge</a></h3>
 
-[![Live demo](https://img.shields.io/badge/%F0%9F%8C%90_Demo-1e40af?style=flat&labelColor=1e40af)](https://porta.cygnusweb.ru)
+<p align="center">
+  [![Live demo](https://img.shields.io/badge/%F0%9F%8C%90_Demo-1e40af?style=flat&labelColor=1e40af)](https://porta.cygnusweb.ru)
+</p>
 
 **AI-ассистент для автоматизации импорта/экспорта — флагманский проект**
 
