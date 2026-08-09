@@ -17,13 +17,20 @@
 
 ## О себе
 
-Разработчик AI-ботов и систем автоматизации. Специализируюсь на AI-assisted development с Claude Code, продвинутом промптинге, создании Telegram-ботов с интеграцией нейросетей, RAG-систем для работы с документами и автоматизации бизнес-процессов через no-code (n8n) и API.
+**Промпт-инженер и разработчик AI-решений.** Проектирую и внедряю ИИ-ассистентов для бизнеса: от промпта до продакшена. Превращаю языковые модели в надёжные рабочие инструменты — боты, RAG-системы, автоматизации процессов.
 
-**Фокус:**
-- **Claude Code / AI-assisted development** — CLI-агенты, CLAUDE.md, Skills, MCP, мультиагентные системы (Claude Agents Team), деплой (SSH/SSL, Docker, VPS)
-- **Промпт-инжиниринг** — few-shot, chain-of-thought, структурированные форматы (JSON), RAG (базы знаний, FAISS + BM25 + rerank), LangChain/LangFlow
-- **Python-разработка** — Flask, FastAPI, Telegram/VK-боты, интеграции нейросетей (OpenAI, DeepSeek, Qwen-VL, GigaChat, Yandex GPT)
-- **Автоматизация бизнес-процессов** — n8n, API-интеграции, no-code связки, OCR (Tesseract), голосовые интерфейсы (Yandex SpeechKit)
+**Промпт-инжиниринг**
+- Проектирование промптов под сложные сценарии: few-shot, chain-of-thought, структурированные JSON-форматы
+- Оптимизация токенов и параметров генерации — качество ответов при меньших затратах на API
+- RAG-системы: базы знаний, гибридный поиск (FAISS + BM25 + rerank), ассистенты с памятью
+- Мультимодальные модели: текст, изображения (Qwen-VL), голос (Yandex SpeechKit)
+- AI-assisted разработка: CLI-агенты (Claude Code), CLAUDE.md, Skills, MCP, мультиагентные команды (Claude Agents Team)
+
+**Разработка и автоматизация**
+- Веб-приложения и API: Python (Flask, FastAPI), JavaScript (vanilla JS), Jinja2
+- Telegram/VK-боты с интеграцией нейросетей (OpenAI, DeepSeek, Qwen-VL, GigaChat, Yandex GPT)
+- Автоматизация бизнес-процессов: n8n, API-интеграции, OCR (Tesseract)
+- Деплой: Linux, Nginx, SSL, SSH, Docker, VPS
 
 > Обучение: Zerocoder — продвинутая программа «Промпт-инжиниринг» и «Практический курс по Claude Code».
 
