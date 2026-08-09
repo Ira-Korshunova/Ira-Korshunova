@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  📍 Москва, Россия
+</p>
+
+<p align="center">
   <a href="https://github.com/Ira-Korshunova?tab=repositories&sort=stargazers">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/Ira-Korshunova?style=social">
   </a>
@@ -47,7 +51,7 @@
 | **Мультиагентность** | Claude Agents Team, LangChain, LangFlow |
 | **Промптинг** | few-shot, chain-of-thought, JSON-форматы |
 | **Базы данных** | PostgreSQL, SQLite, FAISS, векторные хранилища (RAG) |
-| **No-code** | n8n, EMD Cloud, Albato |
+| **No-code** | n8n, Albato |
 | **Инструменты** | Docker, Git, Tesseract OCR, Ollama (локальные модели) |
 | **Деплой** | Linux, Nginx, SSL, SSH, systemd, VPS |
 | **Облака** | Yandex Cloud, Google Cloud |
@@ -60,7 +64,10 @@
 | Программа | Институт | Год | Ключевые навыки |
 |-----------|----------|-----|-----------------|
 | [Практический курс по Claude Code](https://zerocoder.ru/course-claude-code) | Zerocoder | 2025 | CLI, CLAUDE.md, Skills, MCP, мультиагентные системы, Docker, SSH/SSL, GitHub, локальные модели (Ollama), FastAPI, деплой |
-| [Промпт-инжиниринг. Продвинутая программа](https://zerocoder.ru/prompt-engineer-with-ai-course) | Zerocoder | 2025 | Продвинутый промптинг, LangChain, LangFlow, fine-tuning LLM, no-code (n8n, EMD Cloud), векторные БД (RAG), мультимодальные модели, Cursor AI, Yandex Cloud, Google Cloud |
+| [Промпт-инжиниринг. Продвинутая программа](https://zerocoder.ru/prompt-engineer-with-ai-course) | Zerocoder | 2025 | Продвинутый промптинг, LangChain, LangFlow, fine-tuning LLM, no-code (n8n), векторные БД (RAG), мультимодальные модели, Cursor AI, Yandex Cloud, Google Cloud |
+
+**Дипломы Zerocoder** (курс Claude Code, тариф «Бизнес ВИП», с итоговым проектом):
+[диплом (RU)](https://fs-thb01.getcourse.ru/fileservice/file/thumbnail/h/afda87ee3a7871525fdf6d3c97b2bc1f.png/s/800x/a/256825/sc/396) · [диплом (EN)](https://fs-thb01.getcourse.ru/fileservice/file/thumbnail/h/bbcc76b07614db1a508190bc882a7606.png/s/800x/a/256825/sc/133)
 
 ---
 
@@ -75,6 +82,8 @@
 
 Веб-платформа для автоматизации рутины импортёров/экспортёров: извлечение данных из документов (B/L, инвойсы, договоры), распознавание товаров по фото, RAG-справочник по нормативной базе ВЭД, сверка факта поставки с договором, аналитика поставок. Flask-приложение с многостолбцовым AI-layout.
 
+**Результат:** ручная обработка поставки сокращается с часов до минут. Разбор документов идёт программным OCR + regex-парсером без обращения к платным LLM-API — стоимость обработки рутинных документов близка к нулю.
+
 **Stack:** Python, Flask, Jinja2, Vanilla JS, Chart.js, PDF.js, FAISS/BM25+RRF, SQLite/PostgreSQL+pgvector, Qwen-VL, Docker, Traefik
 
 </td>
@@ -86,6 +95,8 @@
 **Контент-фабрика кросс-постинга в Telegram и VK**
 
 Система берёт ссылку на статью → генерирует пост (текст + картинка через Qwen/DashScope) → публикует **одновременно** в Telegram и ВКонтакте. Оркестратор на скиллах Claude Code + Python: таблица-очередь `queue.csv` как источник правды, двойной дедуп, ретрай без перегенерации, проверка токенов до постинга. VK — через VK ID OAuth 2.1 с PKCE и 3-шаговую загрузку фото.
+
+**Результат:** один источник → готовые посты сразу в двух соцсетях без ручного копирования; двойной дедуп и ретраи без перегенерации не дублируют контент и не сжигают токены.
 
 **Stack:** Python, Claude Code Skills, Telegram Bot API, VK API (OAuth 2.1 PKCE), Qwen/DashScope
 
@@ -99,6 +110,8 @@
 
 MCP-сервер (FastMCP), выставляющий RAG-базу знаний (поиск по документам) как tools для любого AI-клиента — Claude Desktop, Cursor, ChatGPT. Оптимизация токенов: `search_knowledge_base` — retrieval **без LLM** (дёшево), `ask_knowledge_base` — полный RAG с генерацией. Demo-бэкенд TF-IDF (runnable без ключей) + интерфейс для production-движка FAISS + BM25 + rerank. Гибрид с Notion: оба сервера на одном Claude — «найди в базе и запиши в Notion».
 
+**Результат:** поиск по базе знаний без вызова LLM — в разы дешевле полного RAG; одна и та же база подключается к любому AI-клиенту через стандартный протокол MCP.
+
 **Stack:** Python, FastMCP (MCP), RAG, TF-IDF/numpy, FAISS (production)
 
 </td>
@@ -111,6 +124,8 @@ MCP-сервер (FastMCP), выставляющий RAG-базу знаний (
 
 Telegram-бот для работы с документами ВЭД: OCR-сканирование, анализ товаров, голосовые сообщения, запросы к нормативной базе через RAG (FAISS + BM25 + rerank).
 
+**Результат:** документ → OCR → структура товаров и ответы по нормативной базе прямо в чате, включая голосовой ввод.
+
 **Stack:** Python, Tesseract OCR, FAISS, Yandex SpeechKit, Qwen-VL
 
 </td>
@@ -120,6 +135,8 @@ Telegram-бот для работы с документами ВЭД: OCR-ска
 **VK chatbot with DeepSeek integration**
 
 Чат-бот ВКонтакте на базе DeepSeek. Память диалога (20 сообщений), интеграция через Long Poll API.
+
+**Результат:** осмысленный диалог с памятью контекста — без переплаты за фреймворки, на чистом Long Poll API.
 
 **Stack:** Python, VK API, DeepSeek
 
@@ -138,7 +155,7 @@ Telegram-бот для работы с документами ВЭД: OCR-ска
 
 ---
 
-## Contact
+## Контакты
 
 <p align="center">
   <a href="mailto:irakorshunova@mail.ru">
@@ -150,5 +167,5 @@ Telegram-бот для работы с документами ВЭД: OCR-ска
 </p>
 
 <p align="center">
-  <em>Open to freelance projects and collaboration</em>
+  <em>Открыта к фриланс-проектам и коллаборациям: AI-боты, RAG-системы, автоматизация бизнес-процессов.</em>
 </p>
