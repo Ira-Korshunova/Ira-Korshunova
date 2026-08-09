@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  🌍 Москва, Россия
-</p>
-
-<p align="center">
   <a href="https://t.me/i_Devos">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" height="28">
   </a>
@@ -46,19 +42,7 @@
 <h3 align="center">Технический стек</h3>
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/-3776AB?style=flat&logo=python&logoColor=white">
-  <img alt="Flask" src="https://img.shields.io/badge/-000000?style=flat&logo=flask&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-4169E1?style=flat&logo=postgresql&logoColor=white">
-  <img alt="OpenAI" src="https://img.shields.io/badge/-412991?style=flat&logo=openai&logoColor=white">
-  <img alt="DeepSeek" src="https://img.shields.io/badge/-4D6BFE?style=flat&logo=deepseek&logoColor=white">
-  <img alt="Qwen" src="https://img.shields.io/badge/-665CEE?style=flat&logo=qwen&logoColor=white">
-  <img alt="Claude Code" src="https://img.shields.io/badge/-D97757?style=flat&logo=anthropic&logoColor=white">
-  <img alt="LangChain" src="https://img.shields.io/badge/-1C3C3C?style=flat&logo=langchain&logoColor=white">
-  <img alt="Ollama" src="https://img.shields.io/badge/-000000?style=flat&logo=ollama&logoColor=white">
-  <img alt="n8n" src="https://img.shields.io/badge/-EA4B71?style=flat&logo=n8n&logoColor=white">
-  <img alt="Telegram" src="https://img.shields.io/badge/-26A5E4?style=flat&logo=telegram&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/-2496ED?style=flat&logo=docker&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=python,flask,js,postgres,openai,deepseek,qwen,anthropic,langchain,ollama,n8n,telegram,docker" />
 </p>
 
 ---
