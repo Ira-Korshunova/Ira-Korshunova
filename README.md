@@ -93,7 +93,7 @@
 
 <p align="center">
   <a href="https://porta.cygnusweb.ru">
-    <img alt="Live demo" src="https://img.shields.io/badge/%F0%9F%8C%90_Demo-1e40af?style=flat&labelColor=1e40af">
+    <img alt="Live demo" src="https://img.shields.io/badge/Demo-1e40af?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOC41IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIvPjxwYXRoIGQ9Ik0zLjUgMTJoMTdNMTIgMy41YzIuNiAyLjcgNCA1LjUgNCA4LjVzLTEuNCA1LjgtNCA4LjVjLTIuNi0yLjctNC01LjUtNC04LjVzMS40LTUuOCA0LTguNXoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIyIi8%2BPC9zdmc%2B&logoColor=white&labelColor=1e40af">
   </a>
 </p>
 
