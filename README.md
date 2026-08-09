@@ -51,17 +51,17 @@
   </a>
 </p>
 
-**AI-ассистент для автоматизации импорта/экспорта — флагманский проект**
+<strong>AI-ассистент для автоматизации импорта/экспорта — флагманский проект</strong>
 
 Веб-платформа для автоматизации рутины импортёров/экспортёров: извлечение данных из документов (B/L, инвойсы, договоры), распознавание товаров по фото, RAG-справочник по нормативной базе ВЭД, сверка факта поставки с договором, аналитика поставок. Flask-приложение с многостолбцовым AI-layout.
 
-**Результат:** ручная обработка поставки сокращается с часов до минут. Разбор документов идёт программным OCR + regex-парсером без обращения к платным LLM-API — стоимость обработки рутинных документов близка к нулю.
+<strong>Результат:</strong> ручная обработка поставки сокращается с часов до минут. Разбор документов идёт программным OCR + regex-парсером без обращения к платным LLM-API — стоимость обработки рутинных документов близка к нулю.
 
 <p align="center">
   <img alt="Porta — главная страница" src="https://raw.githubusercontent.com/Ira-Korshunova/porta-showcase/main/docs/screenshots/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%B0%D1%8F.webp" width="720">
 </p>
 
-**Stack:** Python, Flask, Jinja2, Vanilla JS, Chart.js, PDF.js, FAISS/BM25+RRF, SQLite/PostgreSQL+pgvector, Qwen-VL, Docker, Traefik
+<strong>Stack:</strong> Python, Flask, Jinja2, Vanilla JS, Chart.js, PDF.js, FAISS/BM25+RRF, SQLite/PostgreSQL+pgvector, Qwen-VL, Docker, Traefik
 
 </td>
 </tr>
@@ -69,18 +69,18 @@
 <td>
 
 <h4 align="center"><a href="https://github.com/Ira-Korshunova/tg-vk-crosspost">tg-vk-crosspost</a></h4>
-**Контент-фабрика кросс-постинга в Telegram и VK**
+<strong>Контент-фабрика кросс-постинга в Telegram и VK</strong>
 
 Система берёт ссылку на статью и публикует готовый пост (текст + картинка через Qwen/DashScope) одновременно в Telegram и ВКонтакте. Оркестрация на скиллах Claude Code и Python: таблица-очередь `queue.csv` как источник правды, двойной дедуп, ретраи без перегенерации, проверка токенов до публикации. VK подключается через VK ID OAuth 2.1 (PKCE) с загрузкой фото в три шага.
 
-**Результат:** одна ссылка → готовые посты сразу в двух соцсетях без ручного копирования; двойной дедуп и ретраи не дублируют контент и не сжигают токены.
+<strong>Результат:</strong> одна ссылка → готовые посты сразу в двух соцсетях без ручного копирования; двойной дедуп и ретраи не дублируют контент и не сжигают токены.
 
 <p align="center">
   <img alt="Пост, опубликованный во ВКонтакте" src="https://raw.githubusercontent.com/Ira-Korshunova/tg-vk-crosspost/main/screenshots/08.webp" width="330">
   <img alt="Тот же пост в Telegram" src="https://raw.githubusercontent.com/Ira-Korshunova/tg-vk-crosspost/main/screenshots/11_cropped.webp" width="330">
 </p>
 
-**Stack:** Python, Claude Code Skills, Telegram Bot API, VK API (OAuth 2.1 PKCE), Qwen/DashScope
+<strong>Stack:</strong> Python, Claude Code Skills, Telegram Bot API, VK API (OAuth 2.1 PKCE), Qwen/DashScope
 
 </td>
 </tr>
@@ -88,13 +88,13 @@
 <td>
 
 <h4 align="center"><a href="https://github.com/Ira-Korshunova/porta-rag-mcp">porta-rag-mcp</a></h4>
-**RAG-база знаний как MCP-tools для AI-клиента**
+<strong>RAG-база знаний как MCP-tools для AI-клиента</strong>
 
 MCP-сервер (FastMCP), который выставляет базу знаний как инструменты для любого AI-клиента — Claude Desktop, Cursor, ChatGPT. Два режима: `search_knowledge_base` — поиск по документам без вызова LLM (дёшево), `ask_knowledge_base` — полный RAG с генерацией ответа. Demo-бэкенд на TF-IDF запускается без ключей, production-движок — FAISS + BM25 + rerank. Один сервер можно комбинировать с другими MCP (например, с Notion) в одном клиенте.
 
-**Результат:** поиск по базе знаний без вызова LLM — в разы дешевле полного RAG; одна и та же база подключается к любому AI-клиенту через стандартный протокол MCP.
+<strong>Результат:</strong> поиск по базе знаний без вызова LLM — в разы дешевле полного RAG; одна и та же база подключается к любому AI-клиенту через стандартный протокол MCP.
 
-**Stack:** Python, FastMCP (MCP), RAG, TF-IDF/numpy, FAISS (production)
+<strong>Stack:</strong> Python, FastMCP (MCP), RAG, TF-IDF/numpy, FAISS (production)
 
 </td>
 </tr>
@@ -102,17 +102,17 @@ MCP-сервер (FastMCP), который выставляет базу зна�
 <td>
 
 <h4 align="center"><a href="https://github.com/Ira-Korshunova/work_bot">Work Bot</a></h4>
-**Бот для обработки документов ВЭД**
+<strong>Бот для обработки документов ВЭД</strong>
 
 Telegram-бот для работы с документами ВЭД: OCR-сканирование, распознавание товаров, голосовые сообщения, ответы по нормативной базе через RAG (FAISS + BM25 + rerank).
 
-**Результат:** документ → OCR → структура товаров и ответы по нормативной базе прямо в чате, включая голосовой ввод.
+<strong>Результат:</strong> документ → OCR → структура товаров и ответы по нормативной базе прямо в чате, включая голосовой ввод.
 
 <p align="center">
   <img alt="Work Bot — диалог с ботом" src="https://raw.githubusercontent.com/Ira-Korshunova/work_bot/main/screens/dialog_import_docs_cropped.webp" width="320">
 </p>
 
-**Stack:** Python, Tesseract OCR, FAISS, Yandex SpeechKit, Qwen-VL
+<strong>Stack:</strong> Python, Tesseract OCR, FAISS, Yandex SpeechKit, Qwen-VL
 
 </td>
 </tr>
@@ -120,13 +120,13 @@ Telegram-бот для работы с документами ВЭД: OCR-ска
 <td>
 
 <h4 align="center"><a href="https://github.com/Ira-Korshunova/vk-deepseek-bot">VK DeepSeek Bot</a></h4>
-**VK-чат-бот с интеграцией DeepSeek**
+<strong>VK-чат-бот с интеграцией DeepSeek</strong>
 
 Чат-бот ВКонтакте на базе DeepSeek: ведёт диалог с памятью контекста (до 20 сообщений), работает через Long Poll API — без публичного адреса и вебхуков.
 
-**Результат:** осмысленный диалог с памятью контекста — без переплаты за фреймворки, на чистом Long Poll API.
+<strong>Результат:</strong> осмысленный диалог с памятью контекста — без переплаты за фреймворки, на чистом Long Poll API.
 
-**Stack:** Python, VK API, DeepSeek
+<strong>Stack:</strong> Python, VK API, DeepSeek
 
 </td>
 </tr>
