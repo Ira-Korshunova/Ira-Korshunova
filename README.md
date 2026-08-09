@@ -172,9 +172,17 @@ Telegram-бот для работы с документами ВЭД: OCR-ска
 ## Контакты
 
 <p align="center">
-  [📧 Email](mailto:irakorshunova@mail.ru)<br>
-  [✈️ Telegram](https://t.me/i_Devos)<br>
-  [🐙 GitHub](https://github.com/Ira-Korshunova)
+  <a href="mailto:irakorshunova@mail.ru">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="28">
+  </a>
+  <br>
+  <a href="https://t.me/i_Devos">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" height="28">
+  </a>
+  <br>
+  <a href="https://github.com/Ira-Korshunova">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="28">
+  </a>
 </p>
 
 <p align="center">
