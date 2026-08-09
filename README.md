@@ -37,35 +37,6 @@
 
 ---
 
-<h3 align="center">Технический стек</h3>
-
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
-  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white">
-  <img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat&logo=deepseek&logoColor=white">
-  <img alt="Qwen" src="https://img.shields.io/badge/Qwen-665CEE?style=flat&logo=qwen&logoColor=white">
-  <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white">
-  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white">
-  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white">
-  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white">
-  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
-</p>
-
----
-
-<h3 align="center">Образование</h3>
-
-| Программа | Институт | Год | Ключевые навыки |
-|-----------|----------|-----|-----------------|
-| [Практический курс по Claude Code](https://zerocoder.ru/course-claude-code) · [диплом (RU)](https://fs-thb01.getcourse.ru/fileservice/file/thumbnail/h/afda87ee3a7871525fdf6d3c97b2bc1f.png/s/800x/a/256825/sc/396) · [диплом (EN)](https://fs-thb01.getcourse.ru/fileservice/file/thumbnail/h/bbcc76b07614db1a508190bc882a7606.png/s/800x/a/256825/sc/133) | Zerocoder | 2026 | CLI, CLAUDE.md, Skills, MCP, мультиагентные системы, Docker, SSH/SSL, GitHub, локальные модели (Ollama), FastAPI, деплой |
-| [Промпт-инжиниринг. Продвинутая программа](https://zerocoder.ru/prompt-engineer-with-ai-course) | Zerocoder | 2026 | Продвинутый промптинг, LangChain, LangFlow, fine-tuning LLM, no-code (n8n), векторные БД (RAG), мультимодальные модели, Cursor AI, Yandex Cloud, Google Cloud |
-
----
-
 <h3 align="center">Избранные проекты</h3>
 
 <table>
@@ -150,6 +121,35 @@ Telegram-бот для работы с документами ВЭД: OCR-ска
 
 ---
 
+<h3 align="center">Технический стек</h3>
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white">
+  <img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat&logo=deepseek&logoColor=white">
+  <img alt="Qwen" src="https://img.shields.io/badge/Qwen-665CEE?style=flat&logo=qwen&logoColor=white">
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white">
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white">
+  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white">
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white">
+  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+</p>
+
+---
+
+<h3 align="center">Образование</h3>
+
+| Программа | Институт | Год | Ключевые навыки |
+|-----------|----------|-----|-----------------|
+| [Практический курс по Claude Code](https://zerocoder.ru/course-claude-code) · [диплом (RU)](https://fs-thb01.getcourse.ru/fileservice/file/thumbnail/h/afda87ee3a7871525fdf6d3c97b2bc1f.png/s/800x/a/256825/sc/396) · [диплом (EN)](https://fs-thb01.getcourse.ru/fileservice/file/thumbnail/h/bbcc76b07614db1a508190bc882a7606.png/s/800x/a/256825/sc/133) | Zerocoder | 2026 | CLI, CLAUDE.md, Skills, MCP, мультиагентные системы, Docker, SSH/SSL, GitHub, локальные модели (Ollama), FastAPI, деплой |
+| [Промпт-инжиниринг. Продвинутая программа](https://zerocoder.ru/prompt-engineer-with-ai-course) | Zerocoder | 2026 | Продвинутый промптинг, LangChain, LangFlow, fine-tuning LLM, no-code (n8n), векторные БД (RAG), мультимодальные модели, Cursor AI, Yandex Cloud, Google Cloud |
+
+---
+
 <h3 align="center">GitHub Activity</h3>
 
 <p align="center">
@@ -172,3 +172,5 @@ Telegram-бот для работы с документами ВЭД: OCR-ска
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="28">
   </a>
 </p>
+
+
