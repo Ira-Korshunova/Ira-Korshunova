@@ -186,7 +186,3 @@ Telegram-бот для работы с документами ВЭД: OCR-ска
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="28">
   </a>
 </p>
-
-<p align="center">
-  <em>Открыта к фриланс-проектам и коллаборациям: AI-боты, RAG-системы, автоматизация бизнес-процессов.</em>
-</p>
