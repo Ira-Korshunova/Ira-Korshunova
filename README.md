@@ -80,8 +80,11 @@
 <tr>
 <td>
 
-### [Porta](https://github.com/Ira-Korshunova/porta-showcase) · [![Live demo](https://img.shields.io/badge/live_demo-porta.cygnusweb.ru-2ea44f?style=flat&logo=vercel&logoColor=white)](https://porta.cygnusweb.ru)
-**AI assistant for import/export automation — флагманский проект**
+### [Porta · Vision & Knowledge](https://github.com/Ira-Korshunova/porta-showcase)
+
+[![Live demo](https://img.shields.io/badge/Live_demo-porta.cygnusweb.ru-2ea44f?style=for-the-badge&labelColor=24292e&logo=vercel&logoColor=white)](https://porta.cygnusweb.ru)
+
+**AI-ассистент для автоматизации импорта/экспорта — флагманский проект**
 
 Веб-платформа для автоматизации рутины импортёров/экспортёров: извлечение данных из документов (B/L, инвойсы, договоры), распознавание товаров по фото, RAG-справочник по нормативной базе ВЭД, сверка факта поставки с договором, аналитика поставок. Flask-приложение с многостолбцовым AI-layout.
 
@@ -109,7 +112,7 @@
 <td>
 
 ### [porta-rag-mcp](https://github.com/Ira-Korshunova/porta-rag-mcp)
-**RAG knowledge base как MCP-tools для AI-клиента**
+**RAG-база знаний как MCP-tools для AI-клиента**
 
 MCP-сервер (FastMCP), выставляющий RAG-базу знаний (поиск по документам) как tools для любого AI-клиента — Claude Desktop, Cursor, ChatGPT. Оптимизация токенов: `search_knowledge_base` — retrieval **без LLM** (дёшево), `ask_knowledge_base` — полный RAG с генерацией. Demo-бэкенд TF-IDF (runnable без ключей) + интерфейс для production-движка FAISS + BM25 + rerank. Гибрид с Notion: оба сервера на одном Claude — «найди в базе и запиши в Notion».
 
@@ -123,7 +126,7 @@ MCP-сервер (FastMCP), выставляющий RAG-базу знаний (
 <td>
 
 ### [Work Bot](https://github.com/Ira-Korshunova/work_bot)
-**Document processing bot for foreign trade**
+**Бот для обработки документов ВЭД**
 
 Telegram-бот для работы с документами ВЭД: OCR-сканирование, анализ товаров, голосовые сообщения, запросы к нормативной базе через RAG (FAISS + BM25 + rerank).
 
@@ -137,7 +140,7 @@ Telegram-бот для работы с документами ВЭД: OCR-ска
 <td>
 
 ### [VK DeepSeek Bot](https://github.com/Ira-Korshunova/vk-deepseek-bot)
-**VK chatbot with DeepSeek integration**
+**VK-чат-бот с интеграцией DeepSeek**
 
 Чат-бот ВКонтакте на базе DeepSeek. Память диалога (20 сообщений), интеграция через Long Poll API.
 
