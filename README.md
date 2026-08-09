@@ -109,7 +109,7 @@ Telegram-бот для работы с документами ВЭД: OCR-ска
 **Результат:** документ → OCR → структура товаров и ответы по нормативной базе прямо в чате, включая голосовой ввод.
 
 <p align="center">
-  <img alt="Work Bot — диалог с ботом" src="https://raw.githubusercontent.com/Ira-Korshunova/work_bot/main/screens/dialog_import_docs.png" width="320">
+  <img alt="Work Bot — диалог с ботом" src="https://raw.githubusercontent.com/Ira-Korshunova/work_bot/main/screens/dialog_import_docs_cropped.png" width="320">
 </p>
 
 **Stack:** Python, Tesseract OCR, FAISS, Yandex SpeechKit, Qwen-VL
