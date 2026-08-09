@@ -13,10 +13,10 @@
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-1e40af?style=flat&logo=telegram&logoColor=white&labelColor=1e40af" height="28">
   </a>&emsp;&emsp;
   <a href="https://github.com/Ira-Korshunova?tab=repositories&sort=stargazers">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Ira-Korshunova?style=social" height="28">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Ira-Korshunova?style=flat&logo=github&logoColor=white&label=Stars&labelColor=1e40af&color=1e40af" height="28">
   </a>&emsp;&emsp;
   <a href="https://github.com/Ira-Korshunova?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ira-Korshunova?style=social" height="28">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ira-Korshunova?style=flat&logo=github&logoColor=white&label=Followers&labelColor=1e40af&color=1e40af" height="28">
   </a>
 </p>
 
@@ -88,7 +88,7 @@
 
 ### [Porta · Vision & Knowledge](https://github.com/Ira-Korshunova/porta-showcase)
 
-[![Live demo](https://img.shields.io/badge/%F0%9F%8C%90_Demo-porta.cygnusweb.ru-1e40af?style=flat&labelColor=1e40af)](https://porta.cygnusweb.ru)
+[![Live demo](https://img.shields.io/badge/%F0%9F%8C%90_Demo-1e40af?style=flat&labelColor=1e40af)](https://porta.cygnusweb.ru)
 
 **AI-ассистент для автоматизации импорта/экспорта — флагманский проект**
 
